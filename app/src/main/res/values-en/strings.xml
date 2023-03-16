@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhatTheWeatherLike</string>
+    <string name="label_add_city">Add a city</string>
+    <string name="app_header">Find out the weather</string>
+    <string name="label_view_weather">Viewing the weather</string>
+    <string name="label_inter_city">Name of the city: </string>
+    <string name="text_btn_add_city">Add</string>
+    <string name="text_btn_upd_temp">Update the weather</string>
+    <string name="results_header">Weather information:</string>
+    <string name="results_city">Weather for the city -> </string>
+    <string name="results_temp">Temperature:</string>
+    <string name="results_temp_1">Like as:</string>
+    <string name="results_speed_wind">Wind speed:</string>
+    <string name="results_deg_wind">Wind direction:</string>
+    <string name="results_humidity">Humidity:</string>
+    <string name="results_day_duration">Longitude of the day:</string>
+    <string name="API_KEY">d28980848c35a73434530c5f951676f4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
